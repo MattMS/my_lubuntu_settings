@@ -156,9 +156,9 @@
 		<firstdesk>1</firstdesk>
 
 		<names>
-			<name>sh</name>
-			<name>text</name>
 			<name>web</name>
+			<name>text</name>
+			<name>sh</name>
 			<name>play</name>
 			<name>docs</name>
 			<name>more</name>
