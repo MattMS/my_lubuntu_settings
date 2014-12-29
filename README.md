@@ -1,6 +1,7 @@
 # My Lubuntu configuration
 
-Configuration files for LXDE, as used in Lubuntu.
+Configuration files for [LXDE](http://lxde.org/),
+as used in [Lubuntu](http://lubuntu.net/).
 
 
 ## Setup
