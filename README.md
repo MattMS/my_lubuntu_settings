@@ -7,6 +7,7 @@ as used in [Lubuntu](http://lubuntu.net/).
 ## Setup
 
 ```fish
+ln -s (pwd)/lxpanel ~/.config/lxpanel
 ln -s (pwd)/lxterminal ~/.config/lxterminal
 ln -s (pwd)/openbox/lubuntu-rc.xml ~/.config/openbox/lubuntu-rc.xml
 ```
