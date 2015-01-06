@@ -6,12 +6,16 @@ as used in [Lubuntu](http://lubuntu.net/).
 
 ## Setup
 
-This will replace default folders.
+Link each of the following folders into the `~/.config/` folder.
+
+- lxpanel
+- lxsession
+- lxterminal
+- openbox
+- pcmanfm
+
+Using [Fish Shell](http://fishshell.com/):
 
 ```fish
 ln -s (pwd)/lxpanel ~/.config/lxpanel
-ln -s (pwd)/lxsession ~/.config/lxsession
-ln -s (pwd)/lxterminal ~/.config/lxterminal
-ln -s (pwd)/openbox ~/.config/openbox
-ln -s (pwd)/pcmanfm ~/.config/pcmanfm
 ```
