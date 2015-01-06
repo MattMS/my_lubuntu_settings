@@ -14,6 +14,12 @@ Link each of the following folders into the `~/.config/` folder.
 - openbox
 - pcmanfm
 
+Using Bash:
+
+```bash
+ln -s `pwd`/lxpanel ~/.config/lxpanel
+```
+
 Using [Fish Shell](http://fishshell.com/):
 
 ```fish
